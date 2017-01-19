@@ -10,7 +10,6 @@
   "author": "Justin Chen <justinpchen94@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "prompt": "^1.0.0",
     "prompt-sync": "^4.1.4"
   }
 }
