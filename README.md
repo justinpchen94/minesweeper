@@ -1,0 +1,2 @@
+# minesweeper
+Command line minesweeper

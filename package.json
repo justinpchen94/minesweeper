@@ -1,0 +1,16 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Command line minesweeper",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/justinpchen94/minesweeper.git",
+    "type": "git"
+  },
+  "author": "Justin Chen <justinpchen94@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "prompt": "^1.0.0",
+    "prompt-sync": "^4.1.4"
+  }
+}
