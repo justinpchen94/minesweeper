@@ -7,6 +7,9 @@
     "url": "https://github.com/justinpchen94/minesweeper.git",
     "type": "git"
   },
+  "scripts": {
+    "start": "node index.js"
+  },
   "author": "Justin Chen <justinpchen94@gmail.com>",
   "license": "MIT",
   "dependencies": {

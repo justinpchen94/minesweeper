@@ -15,4 +15,8 @@ If using npm:
 
 # Playing
 
-`node index.js`
+`yarn start`
+
+or 
+
+`npm start`
